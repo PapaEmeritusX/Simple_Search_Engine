@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple_Search_Engine.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple_Search_Engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple_Search_Engine.Simple_Search_Engine-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple_Search_Engine.Simple_Search_Engine-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple_Search_Engine.Simple_Search_Engine-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple_Search_Engine.Simple_Search_Engine-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple_Search_Engine.Simple_Search_Engine-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple_Search_Engine.Simple_Search_Engine-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Simple_Search_Engine.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Simple_Search_Engine.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Simple_Search_Engine.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Simple_Search_Engine.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Simple_Search_Engine.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Simple_Search_Engine.util.test.iml" />
+    </modules>
+  </component>
+</project>
