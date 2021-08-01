@@ -9,7 +9,6 @@ public abstract class SearchEngine {
     public static Map<String, ArrayList<String>> invertedIndexMap;
 
     public static void initDataMap(String fileName) {
-
         dataMap = new HashMap<>();
 
         File file = new File(fileName);

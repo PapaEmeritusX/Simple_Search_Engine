@@ -5,8 +5,6 @@ import search.logic.strategy.AllMatchingStrategy;
 import search.logic.strategy.AnyMatchingStrategy;
 import search.logic.strategy.NoneMatchingStrategy;
 import search.logic.strategy.PeopleMatcher;
-
-import java.util.Locale;
 import java.util.Scanner;
 
 public class AppUI {

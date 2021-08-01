@@ -10,6 +10,7 @@ public class AllMatchingStrategy implements MatchingStrategy {
     @Override
     public void getResult(String[] query) {
         indices = new TreeSet<>();
+
         for (String word : query) {
             List<String> wordIndices = SearchEngine.invertedIndexMap.get(word);
             if (wordIndices != null) {
