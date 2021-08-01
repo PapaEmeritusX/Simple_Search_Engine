@@ -1,6 +1,7 @@
 # Simple Search Engine
 
 #### **(*Technical observations of the project are at the end of the page*)**
+**(To run the application set command line program arguments in your IDE to --data names.txt so it can read the corresponding file)**
 
 ### About 
 Command line search engine that applies [inverted index](https://www.geeksforgeeks.org/inverted-index/) search on text files.   
